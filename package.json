@@ -45,7 +45,7 @@
   "dependencies": {
     "@types/quill": "^1.3.10",
     "lodash": "^4.17.4",
-    "quill": "^1.3.7"
+    "quill": "https://github.com/Unacademy/quill.git"
   },
   "peerDependencies": {
     "react": "^16.0.0",
